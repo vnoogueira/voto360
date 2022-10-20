@@ -28,7 +28,7 @@
     "dotenv": "^5.0.1",
     "jsonwebtoken": "^8.2.0",
     "moment": "^2.22.1",
-    "mongoose": "4.6.5",
+    "mongoose": "4.13.21",
     "mongoose-bcrypt": "1.4.2",
     "restify": "4.2.0",
     "restify-mongoose": "1.0.0"
